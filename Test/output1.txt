@@ -1,0 +1,16 @@
+-------------------------------------------------------------
+Knight + Armor + Boots + Sword | Attack: 25 | Speed: 11 | Defense: 30
+Knight + Armor + Bow | Attack: 22 | Speed: 8 | Defense: 30
+Invalid equip: Staff requires Wizard
+-------------------------------------------------------------
+Wizard + Armor + Boots + Sword | Attack: 30 | Speed: 13 | Defense: 20
+Invalid equip: Bow requires Archer or Knight
+Wizard + Boots + Staff | Attack: 28 | Speed: 15 | Defense: 10
+-------------------------------------------------------------
+Archer + Armor + Boots + Sword | Attack: 28 | Speed: 18 | Defense: 18
+Archer + Armor + Bow | Attack: 25 | Speed: 15 | Defense: 18
+Invalid equip: Staff requires Wizard
+-------------------------------------------------------------
+Delete Character: Knight
+Delete Character: Wizard
+Delete Character: Archer

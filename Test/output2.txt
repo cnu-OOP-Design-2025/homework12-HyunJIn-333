@@ -1,0 +1,29 @@
+[Init] Logger started.
+[Create] Knight
+[Create] Wizard
+[Create] Archer
+[Trying to Equip] Knight + Armor
+[Trying to Equip] Knight + Armor + Boots
+[Trying to Equip] Knight + Armor + Boots + Sword
+[Trying to Equip] Knight + Armor
+[Trying to Equip] Knight + Armor + Bow
+[Trying to Equip] Knight + Boots
+[Trying to Equip] Knight + Boots + Staff
+[Fail to Equip] 
+[Trying to Equip] Wizard + Armor
+[Trying to Equip] Wizard + Armor + Boots
+[Trying to Equip] Wizard + Armor + Boots + Sword
+[Trying to Equip] Wizard + Armor
+[Trying to Equip] Wizard + Armor + Bow
+[Fail to Equip] 
+[Trying to Equip] Wizard + Boots
+[Trying to Equip] Wizard + Boots + Staff
+[Trying to Equip] Archer + Armor
+[Trying to Equip] Archer + Armor + Boots
+[Trying to Equip] Archer + Armor + Boots + Sword
+[Trying to Equip] Archer + Armor
+[Trying to Equip] Archer + Armor + Bow
+[Trying to Equip] Archer + Boots
+[Trying to Equip] Archer + Boots + Staff
+[Fail to Equip] 
+[Shutdown] Logger closed.
